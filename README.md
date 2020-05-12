@@ -30,7 +30,7 @@ reduce函数将为特定单词发出的所有计数汇总在一起.
 
 <video src="assets/MapReduce.mp4"></video>
 
-[MapReduce]("assets/MapReduce.mp4")
+[MapReduce](assets/MapReduce.mp4)
 
 ### 1.3 More Examples
 
