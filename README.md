@@ -28,7 +28,7 @@ reduce函数将为特定单词发出的所有计数汇总在一起.
 
 ![1588347222865](assets/1588347222865.png)
 
-<video src="../MapReduce.mp4"></video>
+<video src="assets/MapReduce.mp4"></video>
 
 ### 1.3 More Examples
 
